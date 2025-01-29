@@ -22,7 +22,7 @@ This browser extension allows you to automatically refresh specific tabs at cust
 ## Installation
 
 1. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-reload/)
-2. For Chrome load the Extension locally([Setting Up Locally](#setting-up-locally)
+2. For Chrome load the Extension locally([Setting Up Locally](#setting-up-locally))
 
 
 ## Usage
