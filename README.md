@@ -50,16 +50,20 @@ Want to customize or improve Tab Reloader? Awesome! Here's how you can get start
 1. Clone the repository to your local machine:
     ```bash
     git clone https://github.com/GodOfZap/TabReloader.git
-    cd tab-reloader
+    cd TabReloader
     ```
 2. Install dependencies:
     ```bash
     npm install
     ```
-3. Load the extension in your browser:
+3. Build the Extension:
+    ```bash
+    npm run build
+    ```    
+4. Load the extension in your browser:
     - Go to `chrome://extensions/`
     - Enable Developer mode.
-    - Click **Load unpacked** and select the folder where your project is located.
+    - Click **Load unpacked** and select the folder where your project /dist is located.
 
 ### Making Changes
 - The code is written using React for the popup UI and JavaScript for the background script.
