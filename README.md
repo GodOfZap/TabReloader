@@ -21,17 +21,9 @@ This browser extension allows you to automatically refresh specific tabs at cust
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/GodOfZap/TabReloader.git
-    ```
-2. Go to Chrome's Extensions page:
-    - Open `chrome://extensions/` in your browser.
-    - Enable Developer mode in the top right.
-3. Load the extension:
-    - Click on **Load unpacked**.
-    - Select the folder where you cloned the repository.
-    - Once loaded, the Tab Reloader extension will appear in your browser’s extension bar!
+1. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-reload/)
+2. For Chrome load the Extension locally([Setting Up Locally](#setting-up-locally)
+
 
 ## Usage
 
