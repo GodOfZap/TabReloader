@@ -90,7 +90,9 @@ Please be respectful and kind. We believe in a collaborative environment and enc
 
 ## License
 
-MIT License. See the LICENSE file for details.
+## License
+
+[MIT License](LICENSE). See the LICENSE file for details.
 
 ## Acknowledgments
 
